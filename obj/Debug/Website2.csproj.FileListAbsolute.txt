@@ -1,0 +1,6 @@
+H:\guthub\Website1\Website2\Website2\Website2\bin\Website2.dll.config
+H:\guthub\Website1\Website2\Website2\Website2\bin\Website2.dll
+H:\guthub\Website1\Website2\Website2\Website2\bin\Website2.pdb
+H:\guthub\Website1\Website2\Website2\Website2\obj\Debug\Website2.csprojResolveAssemblyReference.cache
+H:\guthub\Website1\Website2\Website2\Website2\obj\Debug\Website2.dll
+H:\guthub\Website1\Website2\Website2\Website2\obj\Debug\Website2.pdb
